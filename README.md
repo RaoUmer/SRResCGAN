@@ -19,7 +19,7 @@ describe here later.
 ## SRResCGAN Architecture
 describe here later.
 
-## Quantative Results
+## Quantitative Results
 describe here later.
 
 ## Visual Results
