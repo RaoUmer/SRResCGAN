@@ -16,6 +16,14 @@ describe here later.
 ### Test models
 describe here later.
 
+## SRResCGAN Architecture
+describe here later.
+
+## Quantative Results
+describe here later.
+
+## Visual Results
+describe here later.
 
 ## BibTeX
     @inproceedings{UmerCVPRW2020,
