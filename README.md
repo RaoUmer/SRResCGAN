@@ -10,4 +10,9 @@ describe here.
 |NTIRE2020 RWSR|[Source-Domain-Learning](https://github.com/RaoUmer/SRResCGAN)|[SR-learning](https://github.com/RaoUmer/SRResCGAN)|
 
 ### BibTeX
-    describe here.
+    @inproceedings{UmerCVPRW2020,
+        title={Deep Generative Adversarial Residual Convolutional Networks for Real-World Super-Resolution},
+        author={Rao Muhammad Umer and Gian Luca Foresti and Christian Micheloni},
+        booktitle={CVPR Workshops},
+        year={2020},
+}
