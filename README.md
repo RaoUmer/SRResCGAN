@@ -4,10 +4,18 @@ A PyTorch implementation of the [SRResCGAN](https://github.com/RaoUmer/SRResCGAN
 ### Abstract
 describe here later.
 
-## Pre-trained Models
+### Pre-trained Models
 | |[DSGAN](https://github.com/ManuelFritsche/real-world-sr/tree/master/dsgan)|[SRResCGAN](https://github.com/RaoUmer/SRResCGAN)|
 |---|:---:|:---:|
 |NTIRE2020 RWSR|[Source-Domain-Learning](https://github.com/RaoUmer/SRResCGAN)|[SR-learning](https://github.com/RaoUmer/SRResCGAN)|
+
+### BibTeX
+    @inproceedings{UmerCVPRW2020,
+        title={Deep Generative Adversarial Residual Convolutional Networks for Real-World Super-Resolution},
+        author={Rao Muhammad Umer and Gian Luca Foresti and Christian Micheloni},
+        booktitle={CVPR Workshops},
+        year={2020},
+        }
 
 ## Quick Test
 #### Dependencies
@@ -24,11 +32,3 @@ describe here later.
 
 ## Visual Results
 describe here later.
-
-## BibTeX
-    @inproceedings{UmerCVPRW2020,
-        title={Deep Generative Adversarial Residual Convolutional Networks for Real-World Super-Resolution},
-        author={Rao Muhammad Umer and Gian Luca Foresti and Christian Micheloni},
-        booktitle={CVPR Workshops},
-        year={2020},
-        }
