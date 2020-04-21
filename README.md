@@ -88,24 +88,26 @@ describe here later.
 ## Visual Results
 #### Validation-set (Track-1)
 <p align="center">
-  <img height="400" src="figs/res_valset_1.png">
+  <img height="200" src="figs/res_valset_1.png">
 </p>
 <p align="center">
-  <img height="400" src="figs/res_valset_2.png">
+  <img height="200" src="figs/res_valset_2.png">
 </p>
+
 #### Test-set (Track-1)
 <p align="center">
-  <img height="400" src="figs/res_testset_1.png">
+  <img height="200" src="figs/res_testset_1.png">
 </p>
 <p align="center">
-  <img height="400" src="figs/res_testset_2.png">
+  <img height="200" src="figs/res_testset_2.png">
 </p>
+
 #### Real-World Smartphone images (Track-2)
 <p align="center">
-  <img height="400" src="figs/res_mobile_1.png">
+  <img height="200" src="figs/res_mobile_1.png">
 </p>
 <p align="center">
-  <img height="400" src="figs/res_mobile_2.png">
+  <img height="200" src="figs/res_mobile_2.png">
 </p>
 ## Code Acknowledgement
 describe here later.
