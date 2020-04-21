@@ -29,6 +29,7 @@ describe here later.
 <p align="center">
   <img height="120" src="figs/srrescgan.png">
 </p>
+
 #### SR Generator Network
 <p align="center">
   <img height="180" src="figs/generator.png">
