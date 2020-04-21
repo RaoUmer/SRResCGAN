@@ -41,7 +41,22 @@ describe here later.
 describe here later.
 | <sub>Dataset (HR/LR pairs)</sub> | <sub>SR methods</sub> | <sub>#Params</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>Artifacts</sub> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <sub>-</sub>| <sub>-</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Bicubic</sub>| <sub>EDSR</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Bicubic</sub>| <sub>EDSR</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Bicubic</sub>| <sub>ESRGAN</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Bicubic</sub>| <sub>ESRGAN</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>CycleGAN</sub>| <sub>ESRGAN-FT</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>CycleGAN</sub>| <sub>ESRGAN-FT</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 
 #### The NTIRE2020 RWSR Challenge Results
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
