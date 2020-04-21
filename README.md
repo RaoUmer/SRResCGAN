@@ -25,7 +25,12 @@ describe here later.
 describe here later.
 
 ## SRResCGAN Architecture
-describe here later.
+<p align="center">
+  <img height="120" src="figs/srrescgan.pdf">
+</p>
+<p align="center">
+  <img height="180" src="figs/generator.pdf">
+</p>
 
 ## Quantitative Results
 describe here later.
