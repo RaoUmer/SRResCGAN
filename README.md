@@ -58,7 +58,7 @@ describe here later.
 | <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>unknown (testset)</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>unknown (testset)</sub>|
 
-#### The NTIRE2020 RWSR Challenge Results
+#### The NTIRE2020 RWSR Challenge Results (Track-1)
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
 |:---:|:---:|:---:|:---:|:---:|
 | <sub>Impressionism</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
