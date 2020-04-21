@@ -19,7 +19,7 @@ Most current deep learning based single image super-resolution (SISR) methods fo
 
 ## Quick Test
 #### Dependencies
-- [Python 3.7](https://www.anaconda.com/distribution/) (version>=3.0)
+- [Python 3.7](https://www.anaconda.com/distribution/) (version >= 3.0)
 - [PyTorch >= 1.0](https://pytorch.org/) (CUDA version >= 8.0 if installing with CUDA.)
 - Python packages:  `pip install numpy opencv-python`
 
