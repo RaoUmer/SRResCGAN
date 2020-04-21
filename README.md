@@ -45,6 +45,7 @@ describe here later.
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | <sub>-</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+
 ## Visual Results
 describe here later.
 
