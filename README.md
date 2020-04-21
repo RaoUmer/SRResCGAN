@@ -26,10 +26,10 @@ describe here later.
 
 ## SRResCGAN Architecture
 <p align="center">
-  <img height="120" src="https://github.com/RaoUmer/SRResCGAN/figs/srrescgan.png">
+  <img height="120" src="figs/srrescgan.png">
 </p>
 <p align="center">
-  <img height="180" src="https://github.com/RaoUmer/SRResCGAN/figs/generator.png">
+  <img height="180" src="figs/generator.png">
 </p>
 
 ## Quantitative Results
