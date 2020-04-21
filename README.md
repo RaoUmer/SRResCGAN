@@ -53,10 +53,8 @@ describe here later.
 | <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 
