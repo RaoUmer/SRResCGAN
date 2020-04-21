@@ -61,7 +61,29 @@ describe here later.
 #### The NTIRE2020 RWSR Challenge Results
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
 |:---:|:---:|:---:|:---:|:---:|
-| <sub>-</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Impressionism</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Samsung-SLSI-MSL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>BOE-IOT-AIBD</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>MSMers</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>KU-ISPL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>InnoPeak-SR</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>ITS425</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>MLP-SR</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Webbzhou</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>SR-DL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>TeamAY</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>BIGFEATURE-CAMERA</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>BMIPL-UNIST-YH-1</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>SVNIT1-A</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>KU-ISPL2</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>SuperT</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>GDUT-wp</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>SVNIT1-B</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>SVNIT2</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>AITA-Noah-A</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>AITA-Noah-B</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Bicubic</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>ESRGAN Supervised</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 
 ## Visual Results
 describe here later.
