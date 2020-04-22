@@ -61,14 +61,14 @@ describe here later.
 #### The NTIRE2020 RWSR Challenge Results (Track-1)
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
 |:---:|:---:|:---:|:---:|:---:|
-| <sub>Impressionism</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Impressionism</sub>| <sub>24.67 (16)</sub> |<sub>0.683 (13)</sub>|<sub>0.232 (1)</sub>|<sub>2.195</sub>|
 | <sub>Samsung-SLSI-MSL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>BOE-IOT-AIBD</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>MSMers</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>KU-ISPL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>InnoPeak-SR</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>ITS425</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>MLP-SR</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>**MLP-SR**</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>Webbzhou</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>SR-DL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>TeamAY</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
