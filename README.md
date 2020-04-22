@@ -38,7 +38,6 @@ describe here later.
 </p>
 
 ## Quantitative Results
-describe here later.
 | <sub>Dataset (HR/LR pairs)</sub> | <sub>SR methods</sub> | <sub>#Params</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>Artifacts</sub> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <sub>Bicubic</sub>| <sub>EDSR</sub>| <sub>43M</sub> |<sub>24.48</sub>|<sub>0.53</sub>|<sub>0.6800</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
@@ -58,7 +57,7 @@ describe here later.
 | <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>20.72</sub>|<sub>0.52</sub>|<sub>0.4000</sub>|<sub>[unknown (testset)](https://data.vision.ee.ethz.ch/cvl/aim19/)</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>24.87</sub>|<sub>0.68</sub>|<sub>0.3250</sub>|<sub>[unknown (testset)](https://data.vision.ee.ethz.ch/cvl/ntire20/)</sub>|
 
-#### The NTIRE2020 RWSR Challenge Results (Track-1)
+#### The NTIRE2020 RWSR Challenge Results ([Track-1](https://data.vision.ee.ethz.ch/cvl/ntire20/))
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
 |:---:|:---:|:---:|:---:|:---:|
 | <sub>Impressionism</sub>| <sub>24.67 (16)</sub> |<sub>0.683 (13)</sub>|<sub>0.232 (1)</sub>|<sub>2.195</sub>|
@@ -68,25 +67,25 @@ describe here later.
 | <sub>KU-ISPL</sub>| <sub>26.23 (6)</sub> |<sub>0.747 (7)</sub>|<sub>0.327 (8)</sub>|<sub>2.695</sub>|
 | <sub>InnoPeak-SR</sub>| <sub>26.54 (5)</sub> |<sub>0.746 (8)</sub>|<sub>0.302 (5)</sub>|<sub>2.740</sub>|
 | <sub>ITS425</sub>| <sub>27.08 (2) </sub> |<sub>0.779 (1)</sub>|<sub>0.325 (6)</sub>|<sub>2.770</sub>|
-| <sub>**MLP-SR**</sub>| <sub>24.87 (15)</sub> |<sub>0.681 (14)</sub>|<sub>0.325 (7)</sub>|<sub>2.905</sub>|
-| <sub>Webbzhou</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>SR-DL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>TeamAY</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>BIGFEATURE-CAMERA</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>BMIPL-UNIST-YH-1</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>SVNIT1-A</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>KU-ISPL2</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>SuperT</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>GDUT-wp</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>SVNIT1-B</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>SVNIT2</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>AITA-Noah-A</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>AITA-Noah-B</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>Bicubic</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>ESRGAN Supervised</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>**MLP-SR (ours)**</sub>| <sub>24.87 (15)</sub> |<sub>0.681 (14)</sub>|<sub>0.325 (7)</sub>|<sub>2.905</sub>|
+| <sub>Webbzhou</sub>| <sub>26.10 (9)</sub> |<sub>0.764 (3)</sub>|<sub>0.341 (9)</sub>|<sub>-</sub>|
+| <sub>SR-DL</sub>| <sub>25.67 (11)</sub> |<sub>0.718 (10)</sub>|<sub>0.364 (10)</sub>|<sub>-</sub>|
+| <sub>TeamAY</sub>| <sub>27.09 (1)</sub> |<sub>0.773 (2)</sub>|<sub>0.369 (11)</sub>|<sub>-</sub>|
+| <sub>BIGFEATURE-CAMERA</sub>| <sub>26.18 (7)</sub> |<sub>0.750 (6)</sub>|<sub>0.372 (12)</sub>|<sub>-</sub>|
+| <sub>BMIPL-UNIST-YH-1</sub>| <sub>26.73 (3)</sub> |<sub>0.752 (5)</sub>|<sub>0.379 (13)</sub>|<sub>-</sub>|
+| <sub>SVNIT1-A</sub>| <sub>21.22 (19)</sub> |<sub>0.576 (19)</sub>|<sub>0.397 (14)</sub>|<sub>-</sub>|
+| <sub>KU-ISPL2</sub>| <sub>25.27 (14) </sub> |<sub>0.680 (15)</sub>|<sub>0.460 (15)</sub>|<sub>-</sub>|
+| <sub>SuperT</sub>| <sub>25.79 (10) </sub> |<sub>0.699 (12)</sub>|<sub>0.469 (16)</sub>|<sub>-</sub>|
+| <sub>GDUT-wp</sub>| <sub>26.11 (8) </sub> |<sub>0.706 (11)</sub>|<sub>0.496 (17)</sub>|<sub>-</sub>|
+| <sub>SVNIT1-B</sub>| <sub>24.21 (17)</sub> |<sub>0.617 (18)</sub>|<sub>0.562 (18) </sub>|<sub>-</sub>|
+| <sub>SVNIT2</sub>| <sub>25.39 (13)</sub> |<sub>0.674 (16)</sub>|<sub>0.615 (19)</sub>|<sub>-</sub>|
+| <sub>AITA-Noah-A</sub>| <sub>24.65 (-)</sub> |<sub>0.699 (-)</sub>|<sub>0.222 (-)</sub>|<sub>2.245</sub>|
+| <sub>AITA-Noah-B</sub>| <sub>25.72 (-)</sub> |<sub>0.737 (-)</sub>|<sub>0.223 (-)</sub>|<sub>2.285</sub>|
+| <sub>Bicubic</sub>| <sub>25.48 (-)</sub> |<sub>0.680 (-)</sub>|<sub>0.612 (-)</sub>|<sub>3.050</sub>|
+| <sub>ESRGAN Supervised</sub>| <sub>24.74 (-)</sub> |<sub>0.695 (-)</sub>|<sub>0.207 (-)</sub>|<sub>2.300</sub>|
 
 ## Visual Results
-#### Validation-set (Track-1)
+#### Validation-set ([Track-1](https://data.vision.ee.ethz.ch/cvl/ntire20/))
 <p align="center">
   <img height="200" src="figs/res_valset_1.png">
 </p>
@@ -94,7 +93,7 @@ describe here later.
   <img height="200" src="figs/res_valset_2.png">
 </p>
 
-#### Test-set (Track-1)
+#### Test-set ([Track-1](https://data.vision.ee.ethz.ch/cvl/ntire20/))
 <p align="center">
   <img height="200" src="figs/res_testset_1.png">
 </p>
@@ -102,7 +101,7 @@ describe here later.
   <img height="200" src="figs/res_testset_2.png">
 </p>
 
-#### Real-World Smartphone images (Track-2)
+#### Real-World Smartphone images ([Track-2](https://data.vision.ee.ethz.ch/cvl/ntire20/))
 <p align="center">
   <img height="200" src="figs/res_mobile_1.png">
 </p>
