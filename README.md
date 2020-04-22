@@ -54,9 +54,9 @@ describe here later.
 | <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>26.01</sub>|<sub>0.71</sub>|<sub>0.3871</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>23.69</sub>|<sub>0.62</sub>|<sub>0.4663</sub>|<sub>JPEG compression (quality=30)</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>25.05</sub>|<sub>0.67</sub>|<sub>0.3357</sub>|<sub>[unknown (validset)](https://data.vision.ee.ethz.ch/cvl/ntire20/)</sub>|
-| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>25.96</sub>|<sub>0.71</sub>|<sub>0.3401</sub>|<sub>unknown (validset)</sub>|
-| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>20.72</sub>|<sub>0.52</sub>|<sub>0.4000</sub>|<sub>unknown (testset)</sub>|
-| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>24.87</sub>|<sub>0.68</sub>|<sub>0.3250</sub>|<sub>unknown (testset)</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>25.96</sub>|<sub>0.71</sub>|<sub>0.3401</sub>|<sub>[unknown (validset)](https://data.vision.ee.ethz.ch/cvl/ntire20/)</sub>|
+| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>20.72</sub>|<sub>0.52</sub>|<sub>0.4000</sub>|<sub>[unknown (testset)](https://data.vision.ee.ethz.ch/cvl/aim19/)</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>24.87</sub>|<sub>0.68</sub>|<sub>0.3250</sub>|<sub>[unknown (testset)](https://data.vision.ee.ethz.ch/cvl/ntire20/)</sub>|
 
 #### The NTIRE2020 RWSR Challenge Results (Track-1)
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
