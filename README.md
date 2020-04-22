@@ -95,6 +95,7 @@ You can download all the SR resutls of our method on the validation-set from Goo
 </p>
 
 #### Test-set ([Track-1](https://data.vision.ee.ethz.ch/cvl/ntire20/))
+You can download all the SR resutls of our method on the test-set from Google Drive: [SRResCGAN](https://drive.google.com/open?id=1CklEWHvJCXkMJT4oQ9Zlv3q3OpZdlkao), [SRResCGAN+](https://drive.google.com/open?id=1ThJgQjJiUuuvAVreNilH16jiddmg_MrH).
 <p align="center">
   <img height="200" src="figs/res_testset_1.png">
 </p>
@@ -103,6 +104,7 @@ You can download all the SR resutls of our method on the validation-set from Goo
 </p>
 
 #### Real-World Smartphone images ([Track-2](https://data.vision.ee.ethz.ch/cvl/ntire20/))
+You can download all the SR resutls of our method on the smartphone images from Google Drive: [SRResCGAN](https://drive.google.com/open?id=1z9SG8A13pi7zOmAX70pEdRDCouY6SMH7), [SRResCGAN+](https://drive.google.com/open?id=15tt3qNAHs9_iJzyXcCFnQnqaD7RQZNDW).
 <p align="center">
   <img height="200" src="figs/res_mobile_1.png">
 </p>
