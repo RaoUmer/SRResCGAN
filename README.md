@@ -42,21 +42,21 @@ describe here later.
 | <sub>Dataset (HR/LR pairs)</sub> | <sub>SR methods</sub> | <sub>#Params</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>Artifacts</sub> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <sub>Bicubic</sub>| <sub>EDSR</sub>| <sub>43M</sub> |<sub>24.48</sub>|<sub>0.53</sub>|<sub>0.6800</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
-| <sub>Bicubic</sub>| <sub>EDSR</sub>| <sub>43M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>JPEG compression (quality=30)</sub>|
-| <sub>Bicubic</sub>| <sub>ESRGAN</sub>| <sub>16.7M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
-| <sub>Bicubic</sub>| <sub>ESRGAN</sub>| <sub>16.7M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>JPEG compression (quality=30)</sub>|
-| <sub>CycleGAN</sub>| <sub>ESRGAN-FT</sub>| <sub>16.7M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
-| <sub>CycleGAN</sub>| <sub>ESRGAN-FT</sub>| <sub>16.7M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>JPEG compression (quality=30)</sub>|
-| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
-| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>JPEG compression (quality=30)</sub>|
-| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
-| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>JPEG compression (quality=30)</sub>|
-| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
-| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>JPEG compression (quality=30)</sub>|
-| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>unknown (validset)</sub>|
+| <sub>Bicubic</sub>| <sub>EDSR</sub>| <sub>43M</sub> |<sub>23.75</sub>|<sub>0.62</sub>|<sub>0.5400</sub>|<sub>JPEG compression (quality=30)</sub>|
+| <sub>Bicubic</sub>| <sub>ESRGAN</sub>| <sub>16.7M</sub> |<sub>17.39</sub>|<sub>0.19</sub>|<sub>0.9400</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
+| <sub>Bicubic</sub>| <sub>ESRGAN</sub>| <sub>16.7M</sub> |<sub>22.43</sub>|<sub>0.58</sub>|<sub>0.5300</sub>|<sub>JPEG compression (quality=30)</sub>|
+| <sub>CycleGAN</sub>| <sub>ESRGAN-FT</sub>| <sub>16.7M</sub> |<sub>22.42</sub>|<sub>0.55</sub>|<sub>0.3645</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
+| <sub>CycleGAN</sub>| <sub>ESRGAN-FT</sub>| <sub>16.7M</sub> |<sub>22.80</sub>|<sub>0.57</sub>|<sub>0.3729</sub>|<sub>JPEG compression (quality=30)</sub>|
+| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>22.52</sub>|<sub>0.52</sub>|<sub>0.3300</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
+| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>20.39</sub>|<sub>0.50</sub>|<sub>0.4200</sub>|<sub>JPEG compression (quality=30)</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>25.46</sub>|<sub>0.67</sub>|<sub>0.3604</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>23.34</sub>|<sub>0.59</sub>|<sub>0.4431</sub>|<sub>JPEG compression (quality=30)</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>26.01</sub>|<sub>0.71</sub>|<sub>0.3871</sub>|<sub>Sensor noise (&#x03C3; = 8)</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>23.69</sub>|<sub>0.62</sub>|<sub>0.4663</sub>|<sub>JPEG compression (quality=30)</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>25.05</sub>|<sub>0.67</sub>|<sub>0.3357</sub>|<sub>unknown (validset)</sub>|
 | <sub>DSGAN</sub>| <sub>SRResCGAN+ (ours)</sub>| <sub>380K</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>unknown (validset)</sub>|
-| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>unknown (testset)</sub>|
-| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|<sub>unknown (testset)</sub>|
+| <sub>DSGAN</sub>| <sub>ESRGAN-FS</sub>| <sub>16.7M</sub> |<sub>25.96</sub>|<sub>0.71</sub>|<sub>0.3401</sub>|<sub>unknown (testset)</sub>|
+| <sub>DSGAN</sub>| <sub>SRResCGAN (ours)</sub>| <sub>380K</sub> |<sub>24.87</sub>|<sub>0.68</sub>|<sub>0.3250</sub>|<sub>unknown (testset)</sub>|
 
 #### The NTIRE2020 RWSR Challenge Results (Track-1)
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
