@@ -86,6 +86,7 @@ describe here later.
 
 ## Visual Results
 #### Validation-set ([Track-1](https://data.vision.ee.ethz.ch/cvl/ntire20/))
+You can download all the SR resutls of our method on the validation-set from Google Drive: [SRResCGAN](https://drive.google.com/open?id=19RZshg0jfQjKm8AiiZl8vXwMf8Hw9OHJ), [SRResCGAN+](https://drive.google.com/open?id=1fnCmmy1HOlmb0Vkgwieh6dTA94PGQC7K).
 <p align="center">
   <img height="200" src="figs/res_valset_1.png">
 </p>
