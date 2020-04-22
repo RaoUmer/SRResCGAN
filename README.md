@@ -62,13 +62,13 @@ describe here later.
 | <sub>Team</sub> | <sub>PSNR&#x2191;</sub> | <sub>SSIM&#x2191;</sub> | <sub>LPIPS&#x2193;</sub> | <sub>MOS&#x2193;</sub> |
 |:---:|:---:|:---:|:---:|:---:|
 | <sub>Impressionism</sub>| <sub>24.67 (16)</sub> |<sub>0.683 (13)</sub>|<sub>0.232 (1)</sub>|<sub>2.195</sub>|
-| <sub>Samsung-SLSI-MSL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>BOE-IOT-AIBD</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>MSMers</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>KU-ISPL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>InnoPeak-SR</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>ITS425</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
-| <sub>**MLP-SR**</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
+| <sub>Samsung-SLSI-MSL</sub>| <sub>25.59 (12)</sub> |<sub>0.727 (9) </sub>|<sub>0.252 (2)</sub>|<sub>2.425</sub>|
+| <sub>BOE-IOT-AIBD</sub>| <sub>26.71 (4)</sub> |<sub>0.761 (4)</sub>|<sub>0.280 (4)</sub>|<sub>2.495</sub>|
+| <sub>MSMers</sub>| <sub>23.20 (18) </sub> |<sub>0.651 (17)</sub>|<sub>0.272 (3)</sub>|<sub>2.530</sub>|
+| <sub>KU-ISPL</sub>| <sub>26.23 (6)</sub> |<sub>0.747 (7)</sub>|<sub>0.327 (8)</sub>|<sub>2.695</sub>|
+| <sub>InnoPeak-SR</sub>| <sub>26.54 (5)</sub> |<sub>0.746 (8)</sub>|<sub>0.302 (5)</sub>|<sub>2.740</sub>|
+| <sub>ITS425</sub>| <sub>27.08 (2) </sub> |<sub>0.779 (1)</sub>|<sub>0.325 (6)</sub>|<sub>2.770</sub>|
+| <sub>**MLP-SR**</sub>| <sub>24.87 (15)</sub> |<sub>0.681 (14)</sub>|<sub>0.325 (7)</sub>|<sub>2.905</sub>|
 | <sub>Webbzhou</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>SR-DL</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
 | <sub>TeamAY</sub>| <sub>-</sub> |<sub>-</sub>|<sub>-</sub>|<sub>-</sub>|
