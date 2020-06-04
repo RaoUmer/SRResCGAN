@@ -128,4 +128,4 @@ You can download all the SR resutls of our method on the smartphone images from 
 </p>
 
 ## Code Acknowledgement
-describe here later.
+The training and testing codes are based on [ESRGAN](https://github.com/xinntao/ESRGAN), [DSGAN](https://github.com/ManuelFritsche/real-world-sr), and [deep_demosaick](https://github.com/cig-skoltech/deep_demosaick).
