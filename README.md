@@ -9,7 +9,7 @@ Most current deep learning based single image super-resolution (SISR) methods fo
 #### Pre-trained Models
 | |[DSGAN](https://github.com/ManuelFritsche/real-world-sr/tree/master/dsgan)|[SRResCGAN](https://github.com/RaoUmer/SRResCGAN)|
 |---|:---:|:---:|
-|NTIRE2020 RWSR|[Source-Domain-Learning](https://github.com/RaoUmer/SRResCGAN)|[SR-learning](https://github.com/RaoUmer/SRResCGAN)|
+|NTIRE2020 RWSR|[Source-Domain-Learning](https://drive.google.com/file/d/1HSkk5mGaOk6SnM01Dw_xt8_nrhYNPV4G/view?usp=sharing)|[SR-learning](https://drive.google.com/file/d/1eTKsrZIgQIz7bHjqIbKUBib4AjaGErnt/view?usp=sharing)|
 
 #### BibTeX
     @inproceedings{UmerCVPRW2020,
@@ -26,7 +26,20 @@ Most current deep learning based single image super-resolution (SISR) methods fo
 - Python packages:  `pip install numpy opencv-python`
 
 #### Test models
-describe here later.
+1. Clone this github repository. 
+```
+git clone https://github.com/RaoUmer/SRResCGAN
+cd SRResCGAN
+cd srrescgan_code_demo
+```
+2. Place your own **low-resolution images** in `./srrescgan_code_demo/LR` folder. (There are two sample images i.e. 0815 and 0829). 
+3. Download pretrained models from [Google Drive](https://drive.google.com/drive/folders/1nIOh43GvLrSqM77Uw4PTTntIGy2bEHff?usp=sharing). Place the models in `./srrescgan_code_demo/trained_nets_x4`. We provide two models with source domain learning and SR learning.
+4. Run test. We provide SRResCGAN/SRResCGAN+ and you can config in the `test_srrescgan.py` / `test_srrescgan_plus.py`.
+```
+python test_srrescgan.py        # without self-ensemble strategy
+python test_srrescgan_plus.py   # with self-ensemble strategy
+```
+5. The results are in `./srrescgan_code_demo/sr_results_x4` folder.
 
 ## SRResCGAN Architecture
 #### Overall Representative diagram
