@@ -34,10 +34,10 @@ cd srrescgan_code_demo
 ```
 2. Place your own **low-resolution images** in `./srrescgan_code_demo/LR` folder. (There are two sample images i.e. 0815 and 0829). 
 3. Download pretrained models from [Google Drive](https://drive.google.com/drive/folders/1nIOh43GvLrSqM77Uw4PTTntIGy2bEHff?usp=sharing). Place the models in `./srrescgan_code_demo/trained_nets_x4`. We provide two models with source domain learning and SR learning.
-4. Run test. We provide SRResCGAN/SRResCGAN+ and you can config in the `test_srrescgan.py` / `test_srrescgan_plus.py`.
+4. Run test. We provide SRResCGAN/SRResCGAN+ and you can config in the `test_srrescgan.py (without self-ensemble strategy)` / `test_srrescgan_plus.py (with self-ensemble strategy)`.
 ```
-python test_srrescgan.py        # without self-ensemble strategy
-python test_srrescgan_plus.py   # with self-ensemble strategy
+python test_srrescgan.py      
+python test_srrescgan_plus.py  
 ```
 5. The results are in `./srrescgan_code_demo/sr_results_x4` folder.
 
