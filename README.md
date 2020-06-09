@@ -12,11 +12,12 @@ Most current deep learning based single image super-resolution (SISR) methods fo
 |NTIRE2020 RWSR|[Source-Domain-Learning](https://drive.google.com/file/d/1HSkk5mGaOk6SnM01Dw_xt8_nrhYNPV4G/view?usp=sharing)|[SR-learning](https://drive.google.com/file/d/1eTKsrZIgQIz7bHjqIbKUBib4AjaGErnt/view?usp=sharing)|
 
 #### BibTeX
-    @inproceedings{UmerCVPRW2020,
-        title={Deep Generative Adversarial Residual Convolutional Networks for Real-World Super-Resolution},
-        author={Rao Muhammad Umer and Gian Luca Foresti and Christian Micheloni},
-        booktitle={CVPR Workshops},
-        year={2020},
+    @InProceedings{Umer_2020_CVPR_Workshops,
+        author = {Muhammad Umer, Rao and Luca Foresti, Gian and Micheloni, Christian},
+        title = {Deep Generative Adversarial Residual Convolutional Networks for Real-World Super-Resolution},
+        booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+        month = {June},
+        year = {2020}
         }
 
 ## Quick Test
