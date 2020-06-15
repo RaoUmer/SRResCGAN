@@ -3,6 +3,10 @@ A PyTorch implementation of the [SRResCGAN](https://github.com/RaoUmer/SRResCGAN
 
 #### Abstract
 Most current deep learning based single image super-resolution (SISR) methods focus on  designing deeper / wider models to learn the non-linear mapping between low-resolution (LR) inputs and the high-resolution (HR) outputs from a large number of paired (LR/HR) training data. They usually take as assumption that the LR image is a bicubic down-sampled version of the HR image. However, such degradation process is not available in real-world settings i.e. inherent sensor noise, stochastic noise, compression artifacts, possible mismatch between image degradation process and camera device. It reduces significantly the performance of current SISR methods due to real-world image corruptions. To address these problems, we propose a deep Super-Resolution Residual Convolutional Generative Adversarial Network (SRResCGAN) to follow the real-world degradation settings by adversarial training the model with pixel-wise supervision in the HR domain from its generated LR counterpart. The proposed network exploits the residual learning by minimizing the energy-based objective function with powerful image regularization and convex optimization techniques. We demonstrate our proposed approach in quantitative and qualitative experiments that generalize robustly to real input and it is easy to deploy for other down-scaling operators and mobile/embedded devices.
+
+#### Video Demo
+[![SRResCGAN video](figs/srrescgan.png)](https://youtu.be/auGDoag--fk)
+
 #### Paper
 <a href="https://arxiv.org/abs/2005.00953" rel="Paper"><img src="figs/thumb.jpg" alt="Paper" width="100%"></a>
 
