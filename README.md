@@ -1,4 +1,5 @@
 # Super-Resolution Residual Convolutional Generative Adversarial Network (SRResCGAN)
+#### Update: Our improved Real-Image SR mehtod titled "Deep Cyclic Generative Adversarial Residual Convolutional Networks for Real Image Super-Resolution (SRResCycGAN)" is appeared in the AIM-2020 ECCV workshop. [[Project Website]](https://github.com/RaoUmer/SRResCycGAN)
 An official PyTorch implementation of the [SRResCGAN](https://github.com/RaoUmer/SRResCGAN) model as described in the paper [Deep Generative Adversarial Residual Convolutional Networks for Real-World Super-Resolution](https://arxiv.org/abs/2005.00953). This work is participated in the CVPRW [NTIRE 2020 RWSR](https://data.vision.ee.ethz.ch/cvl/ntire20/) challenges on the Real-World Super-Resolution.
 
 #### Abstract
