@@ -52,6 +52,9 @@ python test_srrescgan_plus.py
 ```
 5. The results are in `./srrescgan_code_demo/sr_results_x4` folder.
 
+## Train models
+- The SR training code is available in the `training_codes` directory.
+
 ## SRResCGAN Architecture
 #### Overall Representative diagram
 <p align="center">
