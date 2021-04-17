@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SRResCGAN&fontAlign=45&fontAlignY=40&color=gradient)
-# Super-Resolution Residual Convolutional Generative Adversarial Network (SRResCGAN)
+# Super-Resolution Residual Convolutional Generative Adversarial Network
 ![](https://img.shields.io/badge/pytorch-SRResCGAN-brightgreen)
 
 #### Update: Our improved Real-Image SR method titled "Deep Cyclic Generative Adversarial Residual Convolutional Networks for Real Image Super-Resolution (SRResCycGAN)" is appeared in the AIM-2020 ECCV workshop. [[Project Website]](https://github.com/RaoUmer/SRResCycGAN)
