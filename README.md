@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SRResCGAN&fontAlign=45&fontAlignY=40&color=gradient)
 # Super-Resolution Residual Convolutional Generative Adversarial Network (SRResCGAN)
 ![](https://img.shields.io/badge/pytorch-SRResCGAN-brightgreen)
 
