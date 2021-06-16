@@ -161,8 +161,8 @@ def main():
         os.makedirs(logs_save_path)
     
     # setup logging 
-    utils_logger.logger_info('train_SRResDGAN', log_path=os.path.join(logs_save_path,'train_SRResDGAN.log'))
-    logger = logging.getLogger('train_SRResDGAN')
+    utils_logger.logger_info('train_SRResCGAN', log_path=os.path.join(logs_save_path,'train_SRResCGAN.log'))
+    logger = logging.getLogger('train_SRResCGAN')
     
     # save the training arguments
     torch.save(opt,os.path.join(logs_save_path,"args.pth"))
