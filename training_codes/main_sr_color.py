@@ -38,7 +38,7 @@ def main():
     ##  Network parameters
     ################################
         
-    parser = argparse.ArgumentParser(description='Image Super-resolution with SRResDGAN')
+    parser = argparse.ArgumentParser(description='Image Super-resolution with SRResCGAN')
     # SRResdnet Parameters
     parser.add_argument("--in_nc", type=int, default=3, help='no. of in_chs for D')
     parser.add_argument("--nf", type=int, default=64, help='no. of feat. maps for D')
@@ -61,7 +61,7 @@ def main():
     # DataSet Parameters
     parser.add_argument('--imdbTrainPath', type = str, default = 'datasets/', help='location of the training dataset.') 
     parser.add_argument('--imdbTestPath', type = str, default = 'datasets/', help='location of the testing dataset.')
-    parser.add_argument('--patch_size', type = int, default = 32, help='patch size for training. [x2-->60,x3-->50,x4-->40]')
+    parser.add_argument('--patch_size', type = int, default = 32, help='patch size for training. [x2-->64,x3-->42,x4-->32]')
     parser.add_argument('--rgb_range', type = int, default = 255, help='data range of the training images.') 
     parser.add_argument('--is_train', type = bool, default = True, help=' True for training phase')
     parser.add_argument('--is_mixup', type = bool, default = True, help=' mixup_data augmentation for training data')
