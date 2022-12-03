@@ -162,3 +162,12 @@ You can download all the SR resutls of our method on the smartphone images from 
 
 ## Code Acknowledgement
 The training and testing codes are somewhat based on [ESRGAN](https://github.com/xinntao/ESRGAN), [DSGAN](https://github.com/ManuelFritsche/real-world-sr), and [deep_demosaick](https://github.com/cig-skoltech/deep_demosaick).
+
+---
+
+<details>
+<summary>statistics</summary>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RaoUmer/SRResCGAN)
+
+</details>
