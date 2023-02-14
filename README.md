@@ -46,6 +46,9 @@ ___________
         year = {2020}
         }
 
+#### Cite the code repos
+Use the following [CITATION.cff](https://github.com/RaoUmer/SRResCGAN/blob/master/CITATION.cff) file to cite the SRResCAN code repository. 
+
 ## Quick Test
 
 This model can be run on arbitrary images with a Docker image hosted on Replicate: https://beta.replicate.ai/RaoUmer/SRResCGAN. Below are instructions for how to run the model without Docker:
