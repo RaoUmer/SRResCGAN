@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SRResCGAN
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Umer
+    family-names: Rao Muhammad
+    email: engr.raoumer943@gmail.com
+    affiliation: 'University of Udine, Italy.'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/pdf/2005.00953.pdf'
+repository-code: 'https://github.com/RaoUmer/SRResCGAN'
+url: 'https://replicate.com/raoumer/srrescgan'
+abstract: Intelligent image scaling to 4x resolution
+keywords:
+  - 'Super-resolution, deep-cnn, real-world-sr'
+license: MIT
+version: v1.0
