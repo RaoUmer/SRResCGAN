@@ -47,7 +47,7 @@ ___________
         }
 
 #### Cite the code repos
-Use the following [CITATION.cff](https://github.com/RaoUmer/SRResCGAN/blob/master/CITATION.cff) file to cite the SRResCAN code repository. 
+Use the following [CITATION.cff](https://github.com/RaoUmer/SRResCGAN/blob/master/CITATION.cff) file to cite the SRResCGAN code repository. 
 
 ## Quick Test
 
