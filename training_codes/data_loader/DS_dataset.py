@@ -119,7 +119,7 @@ def imshow(img):
 
 if __name__=='__main__':
     with open('paths.yml', 'r') as stream:
-        PATHS = yaml.load(stream)
+        PATHS = yaml.load(stream, Loader=yaml.SafeLoader)
     opts_train = dict(crop_size=512, 
                       upscale_factor=4)
     
